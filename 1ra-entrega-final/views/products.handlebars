@@ -1,0 +1,19 @@
+<h1>Productos</h1>
+
+{{!-- En handlebars, tenemos que enviar un true o false
+En caso de que sea true, se ejecuta el codigo debajo del "if",
+caso contrario, se ejecuta el "else" --}}
+{{#if mostrarProductos}}
+    {{!-- Mostrar productos por un "forEach" llamado "each" --}}
+{{#each productos}}
+    <div>
+        <p>Titulo: {{this.title}}</p>
+        <img src={{this.img}} alt="Imagen de {{this.title}}">
+        <p>Precio: {{this.price}}</p>
+        <hr>
+    </div>
+{{/each}}
+{{else}}
+    <p>No se pueden mostrar los productos</p>
+{{/if}}
+{{!-- Siempre hacer que cerrar la declarion if, else con un {{/if}} --}}

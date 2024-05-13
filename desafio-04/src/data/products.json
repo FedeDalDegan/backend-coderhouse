@@ -1,0 +1,112 @@
+[
+    {
+        "title": "Dark Souls III",
+        "desc": "Souls-Like",
+        "price": 40,
+        "stock": 15,
+        "code": "DS123",
+        "thumbnail": [],
+        "id": "8c36cf50ca135708534d",
+        "img": "https://www.gamespot.com/a/uploads/scale_medium/1197/11970954/2976798-sss91mcjvyj85l._sl1500_.jpg"
+    },
+    {
+        "title": "The Witness",
+        "desc": "Puzzles",
+        "price": 5,
+        "stock": 22,
+        "code": "TW",
+        "thumbnail": [],
+        "id": "e4d217349e21d6ffb629",
+        "img": "https://upload.wikimedia.org/wikipedia/en/f/f4/The_Witness_cover.jpg"
+    },
+    {
+        "title": "Palworld",
+        "desc": "Survival",
+        "price": 15,
+        "stock": 15,
+        "code": "PW",
+        "thumbnail": [],
+        "id": "6ea63799d4e44ccf5abe",
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Palworld_Steam_artwork.jpg/220px-Palworld_Steam_artwork.jpg"
+    },
+    {
+        "title": "Warframe",
+        "desc": "Sci-Fi",
+        "price": 1,
+        "stock": 80,
+        "code": "WF",
+        "thumbnail": [],
+        "id": "6260e202ada082036c2c",
+        "img": "https://upload.wikimedia.org/wikipedia/en/b/bd/Warframe_Cover_Art.png"
+    },
+    {
+        "title": "Fear & Hunger: Termina",
+        "desc": "Horror",
+        "price": 8,
+        "stock": 9,
+        "code": "FH",
+        "thumbnail": [],
+        "id": "68a159a175b415817dcf",
+        "img": "https://m.media-amazon.com/images/M/MV5BNWJhNmNiY2YtM2RmYy00NGE5LWJjODYtMjA0OWNjZWZmZWE3XkEyXkFqcGdeQXVyNjU1OTg4OTM@._V1_.jpg"
+    },
+    {
+        "title": "Danganronpa V3: Killing Harmony",
+        "desc": "Visual Novel",
+        "price": 10,
+        "stock": 23,
+        "code": "DR",
+        "thumbnail": [],
+        "id": "bc5e719c7e2be2f56583",
+        "img": "https://store-images.s-microsoft.com/image/apps.64690.14291162525435146.863a4856-e937-4f6f-81c8-efcb52a1546f.725b97dc-d011-43fd-99bd-409a35646882?w=180&h=270&q=60"
+    },
+    {
+        "title": "Slay the Spire",
+        "desc": "Turn-Based",
+        "price": 7,
+        "stock": 12,
+        "code": "STS",
+        "thumbnail": [],
+        "id": "b139c0252deef6ad772d",
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Slay_the_spire_cover.jpg/220px-Slay_the_spire_cover.jpg"
+    },
+    {
+        "title": "Elden Ring",
+        "desc": "Souls",
+        "price": 60,
+        "stock": 42,
+        "code": "ED",
+        "thumbnail": [],
+        "id": "36abb7d14ce1a2c46550",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2000/aGhopp3MHppi7kooGE2Dtt8C.png"
+    },
+    {
+        "title": "The Binding of Isaac: Rebirth",
+        "desc": "RogueLike",
+        "price": 5,
+        "stock": 12,
+        "code": "TBOI",
+        "thumbnail": [],
+        "id": "45a4981b4c0161550ba4",
+        "img": "https://i.redd.it/kgegurof1pe81.gif"
+    },
+    {
+        "title": "Saints Row IV",
+        "desc": "Open World",
+        "price": 6,
+        "stock": 20,
+        "code": "SR",
+        "thumbnail": [],
+        "id": "9ff76130c3b52e35acf6",
+        "img": "https://upload.wikimedia.org/wikipedia/en/5/5d/SaintsRowIV.jpg"
+    },
+    {
+        "title": "FAITH: The unholy trinity",
+        "desc": "Pixel-art",
+        "price": 10,
+        "stock": 5,
+        "code": "FTH",
+        "thumbnail": [],
+        "id": "89e3e3228e1d140ede05",
+        "img": "https://assets-prd.ignimgs.com/2022/09/22/faith-button-2-1663887977057.jpg"
+    }
+]
